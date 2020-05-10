@@ -1,0 +1,12 @@
+yes, no, no, yes, some, high, no, yes, french, 10, wait
+yes, no, no, yes, full, low, no, no, thai, 60, nowait
+no, yes, no, no, some, low, no, no, burger, 10, wait
+yes, no, yes, yes, full, low, no, no, thai, 30, wait
+yes, no, yes, no, full, high, no, yes, french, 70, nowait
+no, yes, no, yes, some, medium, yes, yes, italian, 10, wait
+no, yes, no, no, none, low, yes, no, burger, 10, nowait
+no, no, no, yes, some, medium, yes, yes, thai, 10, wait
+no, yes, yes, no, full, low, yes, no, burger, 70, nowait
+yes, yes, yes, yes, full, high, no, yes, italian, 30, nowait
+no, no, no, no, none, low, no, no, thai, 10, nowait
+yes, yes, yes, yes, full, low, no, no, burger, 60, wait

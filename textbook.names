@@ -1,0 +1,12 @@
+wait, nowait.
+
+alternate: yes, no.
+bar: yes, no.
+frisat: yes, no.
+hungry: yes, no.
+patrons: some, none, full.
+price: low, medium, high.
+raining: yes, no.
+reservation: yes, no.
+type: french, thai, italian, burger.
+waitestimate: continuous.
